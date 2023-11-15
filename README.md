@@ -20,7 +20,7 @@ java -jar File2Android.jar
 Java Runtime Enviroment must be installed on your system to run File2Android or any Java program. You can easily install it from here
 https://www.java.com/tr/download/manual.jsp
 
-File2Android uses FTP protocol to transfer files to Android. You need to create a FTP server on your Android phone, which is very easy with this free app I found https://play.google.com/store/apps/details?id=com.medhaapps.wififtpserver
+File2Android uses FTP protocol to transfer files to Android. You need to create a FTP server on your Android phone, which is very easy with this free app I recommend https://play.google.com/store/apps/details?id=com.medhaapps.wififtpserver
 
 After opening the app click START and the server is ready. Now open File2Android and set the FTP Server URL to be the same with Android. Note that the computer and the Android device must be on the same network.
 
